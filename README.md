@@ -1,0 +1,1 @@
+# movie-book-recommender-github.io is a movie and book recommender system that helps users discover what to watch or read next. The frontend is built with React, while the backend uses Django/Flask with a PostgreSQL database. Machine learning models (collaborative filtering + content-based filtering) generate personalized recommendations based on user ratings and item features.
